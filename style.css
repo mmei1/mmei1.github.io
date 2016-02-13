@@ -1,0 +1,55 @@
+body{
+	text-align: center;
+}
+
+h1{
+	font-size: 40px;
+	font-family: georgia, serif;
+	letter-spacing: 10px;
+}
+
+hr{
+	width: 400px;
+	color: #e0e0eb;
+}
+.center {
+	margin-top: 5%;
+}
+img{
+	width:20%;
+	height:20%;
+}
+
+.crop img{
+	border-radius: 200px;
+}
+
+#links{
+	margin-top: 5%;
+}
+
+#resume{
+	margin-right: 70px;
+}
+
+#bio{
+	margin-left: 70px;
+}
+
+a{
+	text-decoration: none;
+	font-family: georgia, serif;
+	font-size: 30px;
+	letter-spacing: 4px;
+	color: black;
+
+}
+
+a:hover{
+	color: #e0e0eb;
+}
+
+a:visited{
+	color: none;
+}
+
