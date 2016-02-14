@@ -81,11 +81,11 @@ a{
 
 }
 
-a:hover{
-	color: #e0e0eb;
+a:visited{
+	color: inherit;
 }
 
-a:visited{
-	color: none;
+a:hover{
+	color: #e0e0eb;
 }
 
