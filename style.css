@@ -17,8 +17,17 @@ hr{
 	width: 400px;
 }
 
-.center {
+img{
+	width: 50%;
+	height: 50%;
+}
+
+#center {
 	margin-top: 5%;
+	text-align: center;
+}
+
+#photocenter{
 	text-align: center;
 }
 
@@ -26,15 +35,16 @@ hr{
 	margin-right: 15%;
 	margin-left: 15%;
 	overflow: auto;
-	height: 650px;
+	height: 630px;
+}
+
+.textbox2{
+	margin-right: 25%;
+	margin-left: 25%;
 }
 
 .jobtitle{
 	font-weight: bold;
-}
-img{
-	width:20%;
-	height:20%;
 }
 
 .italic{
@@ -43,9 +53,11 @@ img{
 
 .crop img{
 	border-radius: 200px;
+	width:20%;
+	height:20%;
 }
 
-#links{
+#nav{
 	margin-top: 5%;
 }
 
